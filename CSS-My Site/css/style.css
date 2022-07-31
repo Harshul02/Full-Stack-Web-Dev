@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    width: 10%;
+    margin: 0 auto;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+}
